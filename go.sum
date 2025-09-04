@@ -3,6 +3,8 @@ cloud.google.com/go/compute/metadata v0.3.0/go.mod h1:zFmK7XCadkQkj6TtorcaGlCW1h
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/go-goose/goose/v5 v5.0.0-20230421180421-abaee9096e3a h1:H/l82+fC6idmYg1kfpQlCq7gYctri7AGn9RemqwN6bw=
 github.com/go-goose/goose/v5 v5.0.0-20230421180421-abaee9096e3a/go.mod h1:BxICmnmP7QlxZhKP2BHkpWQS0tbb3LrsrLtd9TQyyms=
+github.com/go-goose/goose/v5 v5.1.3 h1:YjWBSaqC/aNKFCyQ3jhom+ONJbEbClsqvlp38HL1FsU=
+github.com/go-goose/goose/v5 v5.1.3/go.mod h1:BxICmnmP7QlxZhKP2BHkpWQS0tbb3LrsrLtd9TQyyms=
 github.com/golang/mock v1.5.0 h1:jlYHihg//f7RRwuPfptm04yp4s7O6Kw8EZiVYIGcH0g=
 github.com/golang/mock v1.5.0/go.mod h1:CWnOUgYIOo4TcNZ0wHX3YZCqsaM1I1Jvs6v3mP3KVu8=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=

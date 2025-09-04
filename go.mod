@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.3
 
 require (
-	github.com/go-goose/goose/v5 v5.0.0-20230421180421-abaee9096e3a
+	github.com/go-goose/goose/v5 v5.1.3
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
 	golang.org/x/crypto v0.36.0
 	golang.org/x/net v0.38.0
